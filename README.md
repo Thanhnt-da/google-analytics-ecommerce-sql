@@ -43,4 +43,3 @@ Aggregation & filtering · `UNNEST` of nested/repeated fields · CTEs · `UNION 
 
 - `README.md` — this overview and findings
 - `queries.sql` — all ten queries, runnable
-- `report.pdf` — formatted report with result screenshots *(optional)*
